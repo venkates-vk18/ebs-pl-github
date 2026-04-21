@@ -13,13 +13,13 @@
         }
 
         h1 {
-            font-size: 100%;
+            font-size: 500%;
             font-weight: normal;
             margin-bottom: 0;
         }
 
         h2 {
-            font-size: 50%;
+            font-size: 200%;
             font-weight: normal;
             margin-bottom: 0;
         }
